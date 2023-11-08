@@ -10,4 +10,4 @@
 </table>
 </center> 
 
-![Snake animation](https://github.com/cintia-valente/cintia-valente/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/cintia-valente/cintia-valente/blob/output/github-contribution-grid-snake.svg)
