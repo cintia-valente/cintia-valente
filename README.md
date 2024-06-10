@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/38113015/111565767-b8231980-877a-11eb-9fc8-fed2566fb9ba.png" align="left" width="950"> 
 
-### Boas vindas <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" heigth="50">
+### Boas vindas
 
 <center>
 <table>
@@ -20,10 +20,13 @@
   <img align="center" alt="Bootstrap" width="40" src="https://user-images.githubusercontent.com/38113015/123527753-5e56b780-d6b8-11eb-8e15-488138f15c95.png">
   <img align="center" alt="Jwt" width="50" src="https://user-images.githubusercontent.com/38113015/123527758-61ea3e80-d6b8-11eb-8722-c185985db1d1.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="nodejs" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png">
+  <img align="center" alt="dotnet" height="30" width="30" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png">
+  <img align="center" alt="java" height="35" width="35" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png">
 </div><br>
 
 <div align="center">
