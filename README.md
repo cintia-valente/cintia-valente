@@ -1,7 +1,5 @@
 <img src="https://user-images.githubusercontent.com/38113015/111565767-b8231980-877a-11eb-9fc8-fed2566fb9ba.png" align="left" width="950"> 
 
-### Boas vindas
-
 <center>
 <table>
     <tr>
