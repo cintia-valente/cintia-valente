@@ -26,8 +26,9 @@
   <img align="center" alt="dotnet" height="30" width="30" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png">
   <img align="center" alt="java" height="35" width="35" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png">
   <img align="center" alt="mysql" height="35" width="35" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png">
-  <img align="center" alt="mysql" height="35" width="35" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/postgresql.png">
-  <img align="center" alt="mysql" height="35" width="35" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png">
+  <img align="center" alt="postgresql" height="35" width="35" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/postgresql.png">
+  <img align="center" alt="mongodb" height="35" width="35" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png">
+  <img align="center" alt="docker" height="35" width="35" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/docker.png">
     
 </div><br>
 
