@@ -1,12 +1,10 @@
 <img src="https://github.com/user-attachments/assets/f719f594-b4af-4439-af22-7d55b4e9c040" align="left" width="950"> 
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-valente&layout=compact&langs_count=16&theme=dracula"/</td>
-    </tr>   
-</table>
-</center> 
+<div align="center">
+  <img 
+    width="400px"
+  />
+</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
